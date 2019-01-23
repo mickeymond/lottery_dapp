@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/lottery_dapp/static/media/icons.faff9214.woff"
   },
   {
-    "revision": "63d132feb6ff2e4de1b3",
-    "url": "/lottery_dapp/static/js/main.63d132fe.chunk.js"
+    "revision": "b83f541330cdc3b01fe1",
+    "url": "/lottery_dapp/static/js/main.b83f5413.chunk.js"
   },
   {
     "revision": "a1a749e89f578a49306ec2b055c073da",
@@ -16,12 +16,16 @@ self.__precacheManifest = [
     "url": "/lottery_dapp/static/js/runtime~main.a7846021.js"
   },
   {
+    "revision": "ef60a4f6c25ef7f39f2d25a748dbecfe",
+    "url": "/lottery_dapp/static/media/outline-icons.ef60a4f6.woff"
+  },
+  {
     "revision": "cd6c777f1945164224dee082abaea03a",
     "url": "/lottery_dapp/static/media/outline-icons.cd6c777f.woff2"
   },
   {
-    "revision": "ef60a4f6c25ef7f39f2d25a748dbecfe",
-    "url": "/lottery_dapp/static/media/outline-icons.ef60a4f6.woff"
+    "revision": "ad97afd3337e8cda302d10ff5a4026b8",
+    "url": "/lottery_dapp/static/media/outline-icons.ad97afd3.ttf"
   },
   {
     "revision": "9c74e172f87984c48ddf5c8108cabe67",
@@ -30,10 +34,6 @@ self.__precacheManifest = [
   {
     "revision": "701ae6abd4719e9c2ada3535a497b341",
     "url": "/lottery_dapp/static/media/outline-icons.701ae6ab.eot"
-  },
-  {
-    "revision": "ad97afd3337e8cda302d10ff5a4026b8",
-    "url": "/lottery_dapp/static/media/outline-icons.ad97afd3.ttf"
   },
   {
     "revision": "0ab54153eeeca0ce03978cc463b257f7",
@@ -60,12 +60,12 @@ self.__precacheManifest = [
     "url": "/lottery_dapp/static/media/icons.8e3c7f55.eot"
   },
   {
-    "revision": "c5ebe0b32dc1b5cc449a76c4204d13bb",
-    "url": "/lottery_dapp/static/media/brand-icons.c5ebe0b3.ttf"
-  },
-  {
     "revision": "13db00b7a34fee4d819ab7f9838cc428",
     "url": "/lottery_dapp/static/media/brand-icons.13db00b7.eot"
+  },
+  {
+    "revision": "c5ebe0b32dc1b5cc449a76c4204d13bb",
+    "url": "/lottery_dapp/static/media/brand-icons.c5ebe0b3.ttf"
   },
   {
     "revision": "82f60bd0b94a1ed68b1e6e309ce2e8c3",
@@ -80,7 +80,7 @@ self.__precacheManifest = [
     "url": "/lottery_dapp/static/css/1.7cd54aee.chunk.css"
   },
   {
-    "revision": "1d7663e8af80390730cea475b7052561",
+    "revision": "45facd8d57714cef08f389400fbf9348",
     "url": "/lottery_dapp/index.html"
   }
 ];
