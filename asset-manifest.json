@@ -1,6 +1,6 @@
 {
-  "main.js": "/lottery_dapp/static/js/main.4e55fa9e.chunk.js",
-  "main.js.map": "/lottery_dapp/static/js/main.4e55fa9e.chunk.js.map",
+  "main.js": "/lottery_dapp/static/js/main.85f4d6a9.chunk.js",
+  "main.js.map": "/lottery_dapp/static/js/main.85f4d6a9.chunk.js.map",
   "static/css/1.7cd54aee.chunk.css": "/lottery_dapp/static/css/1.7cd54aee.chunk.css",
   "static/js/1.a3e45fc3.chunk.js": "/lottery_dapp/static/js/1.a3e45fc3.chunk.js",
   "static/js/1.a3e45fc3.chunk.js.map": "/lottery_dapp/static/js/1.a3e45fc3.chunk.js.map",
@@ -9,6 +9,6 @@
   "static/media/semantic.min.css": "/lottery_dapp/static/media/brand-icons.a1a749e8.svg",
   "static/css/1.7cd54aee.chunk.css.map": "/lottery_dapp/static/css/1.7cd54aee.chunk.css.map",
   "index.html": "/lottery_dapp/index.html",
-  "precache-manifest.96522c514ceb93d875328be32761bc4e.js": "/lottery_dapp/precache-manifest.96522c514ceb93d875328be32761bc4e.js",
+  "precache-manifest.31b758541fce438765bf89c99c18bf1d.js": "/lottery_dapp/precache-manifest.31b758541fce438765bf89c99c18bf1d.js",
   "service-worker.js": "/lottery_dapp/service-worker.js"
 }

@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/lottery_dapp/static/media/icons.faff9214.woff"
   },
   {
-    "revision": "4e55fa9ebbe0fd4bfb0b",
-    "url": "/lottery_dapp/static/js/main.4e55fa9e.chunk.js"
+    "revision": "85f4d6a9aea99662b5b0",
+    "url": "/lottery_dapp/static/js/main.85f4d6a9.chunk.js"
   },
   {
     "revision": "a1a749e89f578a49306ec2b055c073da",
@@ -16,24 +16,24 @@ self.__precacheManifest = [
     "url": "/lottery_dapp/static/js/runtime~main.a7846021.js"
   },
   {
-    "revision": "cd6c777f1945164224dee082abaea03a",
-    "url": "/lottery_dapp/static/media/outline-icons.cd6c777f.woff2"
-  },
-  {
     "revision": "ef60a4f6c25ef7f39f2d25a748dbecfe",
     "url": "/lottery_dapp/static/media/outline-icons.ef60a4f6.woff"
+  },
+  {
+    "revision": "cd6c777f1945164224dee082abaea03a",
+    "url": "/lottery_dapp/static/media/outline-icons.cd6c777f.woff2"
   },
   {
     "revision": "9c74e172f87984c48ddf5c8108cabe67",
     "url": "/lottery_dapp/static/media/flags.9c74e172.png"
   },
   {
-    "revision": "701ae6abd4719e9c2ada3535a497b341",
-    "url": "/lottery_dapp/static/media/outline-icons.701ae6ab.eot"
-  },
-  {
     "revision": "ad97afd3337e8cda302d10ff5a4026b8",
     "url": "/lottery_dapp/static/media/outline-icons.ad97afd3.ttf"
+  },
+  {
+    "revision": "701ae6abd4719e9c2ada3535a497b341",
+    "url": "/lottery_dapp/static/media/outline-icons.701ae6ab.eot"
   },
   {
     "revision": "0ab54153eeeca0ce03978cc463b257f7",
@@ -80,7 +80,7 @@ self.__precacheManifest = [
     "url": "/lottery_dapp/static/css/1.7cd54aee.chunk.css"
   },
   {
-    "revision": "3a0c19182a5c0aa17b8e4fcc082537bc",
+    "revision": "9adec34fbd4a3d1e5dd5e818a19b47fd",
     "url": "/lottery_dapp/index.html"
   }
 ];
